@@ -1,7 +1,7 @@
 **Asisten AI Rekomendasi Wisata Religi Islam Yogyakarta**
 
 **Deskripsi Singkat**
-Prototipe web aplikasi ini merupakan Asisten AI berbasis RAG (Retrieval-Augmented Generation) yang memberikan rekomendasi wisata religi di Yogyakarta.
+Prototipe web aplikasi ini merupakan Asisten AI berbasis RAG (Retrieval-Augmented Generation) yang memberikan rekomendasi wisata religi Islam di Yogyakarta.
 Aplikasi ini memanfaatkan embedding teks dan model Gemini AI untuk menghasilkan jawaban yang relevan dan informatif berdasarkan data wisata lokal.
 
 **Waktu Proyek**
