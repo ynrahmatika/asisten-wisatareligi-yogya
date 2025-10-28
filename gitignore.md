@@ -213,6 +213,3 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
-
-# Streamlit
-.streamlit/secrets.toml
